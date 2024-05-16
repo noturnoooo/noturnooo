@@ -15,7 +15,7 @@ for (let i = 0; i < botoes.length; i++) {
 }
 
 const contadores = document.querySelectorAll(".contador");
-const tempoObjetivo1 = new Date("2024-10-05T6:50:20");
+const tempoObjetivo1 = new Date("2024-10-10T6:50:20");
 const tempoObjetivo2 = new Date("2024-12-05T5:40:65");
 const tempoObjetivo3 = new Date("2024-12-30T3:30:45");
 const tempoObjetivo4 = new Date("2024-02-01T1:20:30");
