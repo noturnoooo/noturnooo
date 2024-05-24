@@ -2,7 +2,7 @@
 :root {
     --cor-de-fundo: #000000;
     --roxo: #ffffff;
-    --branco: #000000;
+    --branco: #ff00aa;
     --botao-ativo: #690264;
     --botao-inativo: rgb(58, 1, 69);
     --texto-fundo: rgb(62, 1, 68);
@@ -29,6 +29,7 @@ body {
     text-align: left;
     width: 100%;
     font-size: 32px;
+    color:#690264;
 }
 
 .titulo-principal span {
