@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
 :root {
-    --cor-de-fundo: #ffffff;
+    --cor-de-fundo: #2c043c;
     --roxo: #000000;
-    --branco: #ffffff;
+    --branco: #7b7b7b;
     --botao-ativo: #e100ff;
-    --botao-inativo: rgb(208, 0, 255);
-    --texto-fundo: rgb(76, 10, 82);
+    --botao-inativo: rgb(84, 35, 94);
+    --texto-fundo: rgb(100, 36, 106);
 }
 
 body {
