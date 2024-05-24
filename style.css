@@ -1,18 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
 :root {
     --cor-de-fundo: #000000;
-    --verde: #4d166a;
-    --branco: #000000;
-    --botao-ativo: #0791b0f8;
-    --botao-inativo: rgb(0, 29, 113);
-    --texto-fundo: rgb(0, 0, 0);
+    --roxo: #46033a;
+    --branco: #262626;
+    --botao-ativo: #aa00c4f8;
+    --botao-inativo: rgb(138, 109, 145);
+    --texto-fundo: rgb(255, 255, 255);
 }
 
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: "Jacquard 12", system-ui;
 }
 
 
@@ -33,12 +32,12 @@ body {
 }
 
 .titulo-principal span {
-    color: var(--verde);
+    color: var(--roxo);
 }
 
 
 .botao {
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: "Jacquard 12", system-ui;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
