@@ -68,11 +68,12 @@ body {
 
 .abas-textos{
     background-color: var(--texto-fundo);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
 .aba-conteudo.ativo{
-    display:block;
+    display: block;
 }
 
 .aba-conteudo{
